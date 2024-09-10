@@ -6,4 +6,5 @@
 4.- Flores Estrada Katya Naomi https://github.com/Naoohw/SEMESTRE5.git
 5.- Naomi Desiree Castillo Trinidad- https://github.com/nomijsjs/Tarea-Naomi.git
 6.- Alexa Sánchez Basurto - https://github.com/alexadvxa/Tareas-China-Modulo.git
+7.- Christian David Gómez Joya https://github.com/davidk7-cmd/Programacion-china.git
 
