@@ -1,4 +1,4 @@
-https://github.com/Joelky9/programacion-web-2024.git link 
+https://github.com/Joelky9/programacion-web-2024.git link  Joel Alejandro Gutiérrez Moreno
 # ¿Porque ver Naruto?
 
 Imagina un mundo lleno de ninjas con habilidades extraordinarias, donde cada desafío es una oportunidad para crecer y cada batalla es una lección de vida. Naruto no es solo un anime; es una historia sobre perseverancia, amistad y encontrar tu propio camino en la vida.
