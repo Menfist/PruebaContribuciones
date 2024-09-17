@@ -1,4 +1,4 @@
-
+Mi link:https://github.com/luisky33/programacionweb2024.git
 # JOHANN LIEBERT PENSAMIENTO
 
 ***Johann Liebert*** exhibe una profunda ***psicopatía y manipulación***, que se manifiestan en su capacidad para controlar y explotar las debilidades de quienes lo rodean. Su visión del mundo es cínica y nihilista; percibe la existencia como inherentemente ***caótica y sin sentido***. Johann opera fuera de las limitaciones morales tradicionales, justificando sus actos más horrendos con una lógica fría y calculadora. Para él, las normas éticas y morales son ilusorias y sin relevancia en su búsqueda de poder y control.
