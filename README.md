@@ -10,3 +10,4 @@
 8. uBALDO Yamil Torres Grijalva https://github.com/UBALD077/China-5E-by-Ubald07.git
 9. Lepe Gonzalez Axel Yeray: https://github.com/lepegod/PruebaContribuciones.git
 10. Heriberto Ramón Luna Figueroa: https://github.com/RamonFTGD/trabajos-school.git
+11. mendoza cardeña samuel emiliano:https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu.git
