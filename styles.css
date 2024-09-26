@@ -1,0 +1,145 @@
+/* Estilos para el formulario de inicio y registro */
+body {
+    font-family: Arial, sans-serif;
+    /*background-color: #f4f4f4;*/
+    background-image: url('Fondo1.png'); /* Ruta de la imagen */
+    background-size: cover; /* Ajusta la imagen al tamaño del navegador */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Fija el fondo para que no se mueva al hacer scroll */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Asegura que el contenido ocupe todo el alto de la ventana */
+    margin: 0; /* Elimina los márgenes del cuerpo */  
+}
+
+.login-container, .register-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.avatar-preview {
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* Estilos generales */
+.dashboard-main, .create-character-container, .characters-list-container, .character-details-container, .leaderboard-container, .dashboard-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+}
+
+.character-details-container img {
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+form {
+    /*display: inline-block;*/
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el contenedor de la tabla de clasificaciones */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
