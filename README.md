@@ -16,4 +16,5 @@
 14. Samuel Emiliano Mendoza Cardeña : https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu
 15. Rangel Obed Duran Damian https://github.com/Rengel777/projects-china
 16. Javier Geovany Farias Cardenas: https://github.com/Javier-Geovany/Javier---trabajos.git
-17. mendoza cardeña samuel emiliano:https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu.git
+17. gutierrez martinez kimberly: https://github.com/FRESITA009/trabajos2024.git
+
