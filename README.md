@@ -1,5 +1,6 @@
 # Ingresa tu enlace de proyecto de GitHub
 
+
 1.- Gabriel Ignacio China Cortez - https://github.com/Menfist/hello-world.git
 2.- Deniz Garcia Bryant Gael https://github.com/Dianita2007/Diana-programacion.git
 3.- Valeria Montserrat Valdivia Vela - https://github.com/Yaogil-Val/Tarea.git
@@ -11,3 +12,5 @@
 9.- Lepe Gonzalez Axel Yeray: https://github.com/lepegod/PruebaContribuciones.git
 10._ Heriberto Ramón Luna Figueroa: https://github.com/RamonFTGD/trabajos-school.git
 11._ Sanchez Guzman Ian Gabriel: https://github.com/Scoby77/China-5-sem.git
+12. Victor Yurem Contreras Barajas: https://github.com/yurem5e/parcial-1.git
+
