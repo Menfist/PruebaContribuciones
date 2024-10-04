@@ -10,4 +10,10 @@
 8. uBALDO Yamil Torres Grijalva https://github.com/UBALD077/China-5E-by-Ubald07.git
 9. Lepe Gonzalez Axel Yeray: https://github.com/lepegod/PruebaContribuciones.git
 10. Heriberto Ramón Luna Figueroa: https://github.com/RamonFTGD/trabajos-school.git
-11. mendoza cardeña samuel emiliano:https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu.git
+11. Sanchez Guzman Ian Gabriel: https://github.com/Scoby77/China-5-sem.git
+12. Victor Yurem Contreras Barajas: https://github.com/yurem5e/parcial-1.git
+13. Ramirez Juarez Pedro Armando https://github.com/Peter-dangers/PruebaContribuciones/upload/main.git
+14. Samuel Emiliano Mendoza Cardeña : https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu
+15. Rangel Obed Duran Damian https://github.com/Rengel777/projects-china
+16. Javier Geovany Farias Cardenas: https://github.com/Javier-Geovany/Javier---trabajos.git
+17. mendoza cardeña samuel emiliano:https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu.git
