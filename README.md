@@ -18,4 +18,5 @@
 16. Javier Geovany Farias Cardenas: https://github.com/Javier-Geovany/Javier---trabajos.git
 17. gutierrez martinez kimberly: https://github.com/FRESITA009/trabajos2024.git
 18. Daaniel Ramirez Flores: https://github.com/Danierf1717/Trabahos-China.git
+19. Diaz Hernandez Axl Enrique: https://github.com/Solid876/Axl-Enrique-Diaz-Hernandez.git
 
