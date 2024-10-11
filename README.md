@@ -20,3 +20,4 @@
 18. Daaniel Ramirez Flores: https://github.com/Danierf1717/Trabahos-China.git
 19. Diaz Hernandez Axl Enrique: https://github.com/Solid876/Axl-Enrique-Diaz-Hernandez.git
 20. Ramon Eduardo Ramirez Beltran - https://github.com/ramonramirezprogramador/prueba2.git
+21. Guzman Cobian Cristhian Alejandro https://github.com/Cris-Lagarrocha-cricosa666/Programaci-nweb2024-5E.git
