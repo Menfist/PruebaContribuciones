@@ -24,3 +24,4 @@
 22. Luis Antonio Meza Robles - https://github.com/luisky33/programacionweb2024.git
 23. Deniz Garcia Bryant Gael: https://github.com/BryantLux2007/PruebaContribuciones.git
 24. Greco Raphael Muñoz Birrueta: https://github.com/b1rrueta/PruebaContribuciones.git
+25. Camila Daniela Arzola Mendonza: https://github.com/itzdanyee/PruebaContribuciones.git
