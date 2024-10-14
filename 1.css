@@ -1,0 +1,15 @@
+form{
+    background-color: aquamarine;
+}
+#Nombre{
+  background-color: blue;  
+}
+#Apellidos{
+    background-color: red;  
+  }
+  #telefono{
+    background-color:brown;
+  }
+  #correo{
+    background-color:chartreuse;  
+  }
