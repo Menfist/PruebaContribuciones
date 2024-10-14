@@ -1,10 +1,22 @@
-https://github.com/Joelky9/programacion-web-2024.git link  Joel Alejandro Gutiérrez Moreno
-# ¿Porque ver Naruto?
+# Ingresa tu enlace de proyecto de GitHub
 
-Imagina un mundo lleno de ninjas con habilidades extraordinarias, donde cada desafío es una oportunidad para crecer y cada batalla es una lección de vida. Naruto no es solo un anime; es una historia sobre perseverancia, amistad y encontrar tu propio camino en la vida.
-
-Naruto Uzumaki, el protagonista, es un joven ninja con un sueño grande: convertirse en el Hokage, el líder más poderoso de su aldea. A lo largo de su viaje, te verás inmerso en un mundo vibrante lleno de personajes únicos, emocionantes enfrentamientos y tramas sorprendentes. Pero más allá de las peleas y las misiones, Naruto es una celebración de la fuerza interior, la superación personal y el valor de nunca rendirse, sin importar cuán difíciles sean las circunstancias.
-
-Cada episodio está lleno de acción, emoción y momentos que te harán reflexionar sobre tu propio camino y tus metas. Ver a Naruto superar obstáculos con determinación y a sus amigos apoyarse mutuamente te recordará la importancia de luchar por tus sueños y mantener la esperanza, incluso cuando las cosas se pongan difíciles.
-
-Así que, si buscas una serie que te inspire, te entretenga y te haga sentir parte de un viaje inolvidable, Naruto es la elección perfecta. ¡No te pierdas la oportunidad de acompañar a Naruto en su camino hacia la grandeza y descubrir lo que realmente significa ser un héroe!
+1. Gabriel Ignacio China Cortez - https://github.com/Menfist/hello-world.git
+2. Diana Salazar Landin - https://github.com/Dianita2007/Diana-programacion.git
+3. Valeria Montserrat Valdivia Vela - https://github.com/Yaogil-Val/Tarea.git
+4. Flores Estrada Katya Naomi https://github.com/Naoohw/SEMESTRE5.git
+5. Naomi Desiree Castillo Trinidad- https://github.com/nomijsjs/Tarea-Naomi.git
+6. Alexa Sánchez Basurto - https://github.com/alexadvxa/Tareas-China-Modulo.git
+7. Christian David Gómez Joya https://github.com/davidk7-cmd/Programacion-china.git
+8. uBALDO Yamil Torres Grijalva https://github.com/UBALD077/China-5E-by-Ubald07.git
+9. Lepe Gonzalez Axel Yeray: https://github.com/lepegod/PruebaContribuciones.git
+10. Heriberto Ramón Luna Figueroa: https://github.com/RamonFTGD/trabajos-school.git
+11. Sanchez Guzman Ian Gabriel: https://github.com/Scoby77/China-5-sem.git
+12. Victor Yurem Contreras Barajas: https://github.com/yurem5e/parcial-1.git
+13. Ramirez Juarez Pedro Armando https://github.com/Peter-dangers/PruebaContribuciones/upload/main.git
+14. Samuel Emiliano Mendoza Cardeña : https://github.com/SAMUELMENDOZA-PROGRA/parcial1samu
+15. Rangel Obed Duran Damian https://github.com/Rengel777/projects-china
+16. Javier Geovany Farias Cardenas: https://github.com/Javier-Geovany/Javier---trabajos.git
+17. gutierrez martinez kimberly: https://github.com/FRESITA009/trabajos2024.git
+18. Daaniel Ramirez Flores: https://github.com/Danierf1717/Trabahos-China.git
+19. Diaz Hernandez Axl Enrique: https://github.com/Solid876/Axl-Enrique-Diaz-Hernandez.git
+20. Ramon Eduardo Ramirez Beltran - https://github.com/ramonramirezprogramador/prueba2.git
