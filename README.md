@@ -29,3 +29,4 @@
 27. Fernando Soriano Hernandez - https://github.com/sorifsh/programa-de-profe
 28. Angel Moises Guzman Solis: https://github.com/TenshiGS/PROGRAM.git
 29. Esteban Emiliano Vazquez Bonilla: https://github.com/EstabanVasquez/Trabajos-.git
+30. Ramirez Larios Uriel Dominyk: https://github.com/Eluriehh/PruebaContribuciones.git
