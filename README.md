@@ -27,3 +27,5 @@
 25. Camila Daniela Arzola Mendonza: https://github.com/itzdanyee/PruebaContribuciones.git
 26. Ramio Guadalupe Lomeli Lopez: https://github.com/RamiroLomeli/PruebaContribuciones.git
 27. Fernando Soriano Hernandez - https://github.com/sorifsh/programa-de-profe
+28. Angel Moises Guzman Solis: https://github.com/TenshiGS/PROGRAM.git
+
