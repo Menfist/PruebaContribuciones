@@ -1,7 +1,7 @@
 # Ingresa tu enlace de proyecto de GitHub
 
 1. Gabriel Ignacio China Cortez - https://github.com/Menfist/hello-world.git
-2. Deniz Garcia Bryant Gael https://github.com/Dianita2007/Diana-programacion.git
+2. Diana Salazar Landin - https://github.com/Dianita2007/Diana-programacion.git
 3. Valeria Montserrat Valdivia Vela - https://github.com/Yaogil-Val/Tarea.git
 4. Flores Estrada Katya Naomi https://github.com/Naoohw/SEMESTRE5.git
 5. Naomi Desiree Castillo Trinidad- https://github.com/nomijsjs/Tarea-Naomi.git
@@ -21,3 +21,4 @@
 19. Diaz Hernandez Axl Enrique: https://github.com/Solid876/Axl-Enrique-Diaz-Hernandez.git
 20. Ramon Eduardo Ramirez Beltran - https://github.com/ramonramirezprogramador/prueba2.git
 21. Luis Antonio Meza Robles - https://github.com/luisky33/programacionweb2024.git
+
