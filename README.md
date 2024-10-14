@@ -25,3 +25,4 @@
 23. Deniz Garcia Bryant Gael: https://github.com/BryantLux2007/PruebaContribuciones.git
 24. Greco Raphael Muñoz Birrueta: https://github.com/b1rrueta/PruebaContribuciones.git
 25. Camila Daniela Arzola Mendonza: https://github.com/itzdanyee/PruebaContribuciones.git
+26. Ramio Guadalupe Lomeli Lopez: https://github.com/RamiroLomeli/PruebaContribuciones.git
