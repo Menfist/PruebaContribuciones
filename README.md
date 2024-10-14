@@ -26,3 +26,4 @@
 24. Greco Raphael Muñoz Birrueta: https://github.com/b1rrueta/PruebaContribuciones.git
 25. Camila Daniela Arzola Mendonza: https://github.com/itzdanyee/PruebaContribuciones.git
 26. Ramio Guadalupe Lomeli Lopez: https://github.com/RamiroLomeli/PruebaContribuciones.git
+27. Fernando Soriano Hernandez - https://github.com/sorifsh/programa-de-profe
