@@ -22,4 +22,4 @@
 20. Ramon Eduardo Ramirez Beltran - https://github.com/ramonramirezprogramador/prueba2.git
 21. Guzman Cobian Cristhian Alejandro https://github.com/Cris-Lagarrocha-cricosa666/Programaci-nweb2024-5E.git
 22. Luis Antonio Meza Robles - https://github.com/luisky33/programacionweb2024.git
-23. Deniz Garcia Bryant Gael: https://github.com/BryantLux2007/PruebaContribuciones.git
+23. Deniz Garcia Bryant Gael: https://github.com/BryantLux2007/parcial2.git
