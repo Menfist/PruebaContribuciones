@@ -23,3 +23,14 @@
 21. Guzman Cobian Cristhian Alejandro https://github.com/Cris-Lagarrocha-cricosa666/Programaci-nweb2024-5E.git
 22. Luis Antonio Meza Robles - https://github.com/luisky33/programacionweb2024.git
 23. Deniz Garcia Bryant Gael: https://github.com/BryantLux2007/parcial2.git
+24. Greco Raphael Muñoz Birrueta: https://github.com/b1rrueta/PruebaContribuciones.git
+25. Camila Daniela Arzola Mendonza: https://github.com/itzdanyee/PruebaContribuciones.git
+26. Ramio Guadalupe Lomeli Lopez: https://github.com/RamiroLomeli/PruebaContribuciones.git
+27. Fernando Soriano Hernandez - https://github.com/sorifsh/programa-de-profe
+28. Angel Moises Guzman Solis: https://github.com/TenshiGS/PROGRAM.git
+29. Esteban Emiliano Vazquez Bonilla: https://github.com/EstabanVasquez/Trabajos-.git
+30. Ramirez Larios Uriel Dominyk: https://github.com/Eluriehh/PruebaContribuciones.git
+31. Ramirez Casillas Reyna Lizbeth https://github.com/Roy-Ramirez09/PruebaContribuciones
+32. Joel Alejandro Gutierrez Moreno - https://github.com/Joelky9/programacion-web-2024.git
+33. Vargas Aguilar Hugo de jesus: https://github.com/VargasHV/PruebaContribuciones.git
+
