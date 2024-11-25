@@ -34,4 +34,5 @@
 32. Joel Alejandro Gutierrez Moreno - https://github.com/Joelky9/programacion-web-2024.git
 33. Vargas Aguilar Hugo de jesus: https://github.com/VargasHV/PruebaContribuciones.git
 34. Luis Adrian Fernandez Melchor: https://github.com/misericordia99-adrian/parcial2.git
+35. John Jairo Gamiño Canseco: https://github.com/Jairogc0408/Parcial-3.git
 
